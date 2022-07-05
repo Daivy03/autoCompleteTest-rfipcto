@@ -18,7 +18,7 @@
             setTimeout(inputs[i].click(),800);
             console.log('Test Completato!');
         }
-        setTimeout(homepage(),2000);
+        setTimeout(homepage(),60000);
 
     }
     function homepage(){
