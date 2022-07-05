@@ -11,7 +11,7 @@ AutoCompleteTest for rfipcto</h3>
 <div align="left">
   
 <!-- GETTING STARTED -->
-## About project & Use
+## About project ❓
 
 This simple script complete rfi tests. 
 
@@ -20,7 +20,7 @@ This simple script complete rfi tests.
 * Tampermonkey: Get it on <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Chrome Web Store</a>
 * This script 🙃
   
-## Installing ⚠️
+## Installing 📄
 * Download the ```AutoCompleteTest for rfipcto.js``` from this repo
 * Just click <b><a href="https://github.com/Daivy03/autoCompleteTest-rfipcto/raw/main/AutoCompleteTest%20for%20rfipcto.user.js">HERE</a></b> to install automatically on Tampermonkey
 ### Usage ⚠️
