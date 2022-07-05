@@ -11,7 +11,7 @@ AutoCompleteTest for rfipcto</h3>
 <div align="left">
   
 <!-- GETTING STARTED -->
-## About project && Use
+## About project & Use
 
 This simple script complete rfi tests. Just install the script or copy and paste the code in your browser console
 
