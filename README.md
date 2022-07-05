@@ -13,17 +13,18 @@ AutoCompleteTest for rfipcto</h3>
 <!-- GETTING STARTED -->
 ## About project & Use
 
-This simple script complete rfi tests. Just install the script or copy and paste the code in your browser console
+This simple script complete rfi tests. 
 
 ### Prerequisites
 
 * Tampermonkey: Get it on <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Chrome Web Store</a>
 * This script 🙃
   
-## Installing
+## Installing ⚠️
 * Download the ```AutoCompleteTest for rfipcto.js``` from this repo
 * Just click <b><a href="https://github.com/Daivy03/autoCompleteTest-rfipcto/raw/main/AutoCompleteTest%20for%20rfipcto.user.js">HERE</a></b> to install automatically on Tampermonkey
-  
+### Usage ⚠️
+Just install the script or copy and paste the code in your browser console
   
 <!-- CONTRIBUTING -->
 ## Contributing
