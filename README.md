@@ -22,7 +22,7 @@ This simple script complete rfi tests. Just install the script or copy and paste
   
 ## Installing
 * Download the ```AutoCompleteTest for rfipcto.js``` from this repo
-* Just click <b><a href="https://github.com/Daivy03/moodle-afk-tampermonkey-script/raw/master/E-learning%20Moodle%20AFK.user.js">HERE</a></b> to install automatically on Tampermonkey
+* Just click <b><a href="https://github.com/Daivy03/autoCompleteTest-rfipcto/raw/main/AutoCompleteTest%20for%20rfipcto.user.js">HERE</a></b> to install automatically on Tampermonkey
   
   
 <!-- CONTRIBUTING -->
