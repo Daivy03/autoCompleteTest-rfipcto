@@ -5,9 +5,5 @@
             setTimeout(inputs[i].click(),800);
             console.log('Test Completato!');
         }
-        setTimeout(homepage(),60000);
-
     }
-    function homepage(){
-        window.location.href = 'https://www.educazionedigitale.it/rfipcto/moduli-formativi/'
-    }s
+ 
